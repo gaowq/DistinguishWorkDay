@@ -1,2 +1,2 @@
 # DistinguishWorkDay
-区分日期是什么时间类型
+区分日期是工作日还是节假日
